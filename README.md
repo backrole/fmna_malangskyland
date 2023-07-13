@@ -26,15 +26,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Berusahalah%20untuk%20tidak%20menjadi%20sukses%20tapi%20berusahalah%20untuk%20menjadi%20bernilai)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quote=Berusahalah%20untuk%20tidak%20menjadi%20sukses%20tapi%20berusahalah%20untuk%20menjadi%20bernilai)](https://github.com/piyushsuthar/github-readme-quotes)
