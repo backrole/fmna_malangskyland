@@ -7,6 +7,7 @@
    - Tiket utama :x:
    - AP arah parkir :x:
    - Resto :x:
+   - dll
 - Load balancing antara provider internet resto dan office bawah:x:
 - Pemetaan ulang AP sesuai jangkauan alat:x:
 - Analisa kembali perangkat parking gate:x:
