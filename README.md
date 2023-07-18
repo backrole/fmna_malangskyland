@@ -9,14 +9,15 @@
    - Resto :x:
    - dll
 - Load balancing antara provider internet resto dan office bawah:x:
-- Pemetaan ulang AP sesuai jangkauan alat:x:
+- Pemetaan ulang AP sesuai jangkauan alat🏃:
 - Analisa kembali perangkat parking gate:x:
 - Pengaktifan kembali parking gate:x:
 - Membuat dokumentasi alur jaringan:x:
 - Membuat data inventory alat:x:
-- Pemetaan IP address:x:
-- Pembagian bandwidth:x:
-- Akses internet wahana 360:x: 
+- Pemetaan IP address🏃
+- Pembagian bandwidth🏃
+- Akses internet wahana 360:x:
+- Pemasangan mikrotik 750Gr :heavy_check_mark:
 
 ## icon
 | ico | deskripsi | 
