@@ -16,8 +16,10 @@
 - Membuat data inventory alat:x:
 - Pemetaan IP address:heavy_check_mark:
 - Pembagian bandwidth:heavy_check_mark:
-- Akses internet wahana 360:x:
+- Akses internet wahana 360 :x:
 - Pemasangan mikrotik 750Gr :heavy_check_mark:
+- Reposisi AP parkir gate + penambahan alat :x:
+- Penguatan signal area wahana :x:
 
 ## icon
 | ico | deskripsi | 
