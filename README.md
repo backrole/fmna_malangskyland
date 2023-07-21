@@ -3,19 +3,19 @@
 - Menstabilkan dan memastikan koneksi semua aman :heavy_check_mark::runner: ( Monitoringdan pengembangan selalu )
 - Pemindahan server diposisi yang aman ( tidak di bawah meja kasir karena terlalu panas ) :x:
 - Penataan ulang kabel jaringan di beberapa area seperti :
-   - Corner :x:
-   - Tiket utama :x:
-   - AP arah parkir :x:
-   - Resto :x:
+   - Corner :heavy_check_mark:
+   - Tiket utama :heavy_check_mark:
+   - AP arah parkir :heavy_check_mark:
+   - Resto :heavy_check_mark:
    - dll
 - Load balancing antara provider internet resto dan office bawah:x:
-- Pemetaan ulang AP sesuai jangkauan alat🏃:
+- Pemetaan ulang AP sesuai jangkauan alat:x:
 - Analisa kembali perangkat parking gate:x:
 - Pengaktifan kembali parking gate:x:
 - Membuat dokumentasi alur jaringan:x:
 - Membuat data inventory alat:x:
-- Pemetaan IP address🏃
-- Pembagian bandwidth🏃
+- Pemetaan IP address:heavy_check_mark:
+- Pembagian bandwidth:heavy_check_mark:
 - Akses internet wahana 360:x:
 - Pemasangan mikrotik 750Gr :heavy_check_mark:
 
