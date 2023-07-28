@@ -8,8 +8,8 @@
    - AP arah parkir :heavy_check_mark:
    - Resto :heavy_check_mark:
    - dll
-- Load balancing antara provider internet resto dan office bawah:x:
-- Pemetaan ulang AP sesuai jangkauan alat:x:
+- Load balancing antara provider internet resto dan office bawah:runner:
+- Pemetaan ulang AP sesuai jangkauan alat:runner:
 - Analisa kembali perangkat parking gate:x:
 - Pengaktifan kembali parking gate:x:
 - Membuat dokumentasi alur jaringan:x:
