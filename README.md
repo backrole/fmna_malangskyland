@@ -8,7 +8,7 @@
    - AP arah parkir :heavy_check_mark:
    - Resto :heavy_check_mark:
    - dll
-- Load balancing antara provider internet resto dan office bawah:runner:
+- Load balancing antara provider internet resto dan office bawah :heavy_check_mark:
 - Pemetaan ulang AP sesuai jangkauan alat:runner:
 - Analisa kembali perangkat parking gate:x:
 - Pengaktifan kembali parking gate:x:
@@ -19,7 +19,7 @@
 - Akses internet wahana 360 :x:
 - Pemasangan mikrotik 750Gr :heavy_check_mark:
 - Reposisi AP parkir gate + penambahan alat :x:
-- Penguatan signal area wahana :x:
+- Penguatan signal area wahana :heavy_check_mark:
 
 ## icon
 | ico | deskripsi | 
