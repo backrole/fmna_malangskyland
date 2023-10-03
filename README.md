@@ -12,13 +12,13 @@
 - Pemetaan ulang AP sesuai jangkauan alat:runner:
 - Analisa kembali perangkat parking gate:x:
 - Pengaktifan kembali parking gate:x:
-- Membuat dokumentasi alur jaringan:x:
+- Membuat dokumentasi alur jaringan:heavy_check_mark:
 - Membuat data inventory alat:x:
 - Pemetaan IP address:heavy_check_mark:
 - Pembagian bandwidth:heavy_check_mark:
 - Akses internet wahana 360 :x:
 - Pemasangan mikrotik 750Gr :heavy_check_mark:
-- Reposisi AP parkir gate + penambahan alat :x:
+- Reposisi AP parkir gate + penambahan alat :heavy_check_mark:
 - Penguatan signal area wahana :heavy_check_mark:
 
 ## icon
